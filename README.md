@@ -1,5 +1,7 @@
 # House Price Prediction
 
+🌐 **Live Demo:** https://house-price-prediction-5qbkkymvarhabavcrms8n3.streamlit.app/
+
 An application that predicts the estimated price of a house based on its property details.
 
 ## Project Description
